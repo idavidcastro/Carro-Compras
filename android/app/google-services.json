@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324020057684",
+    "project_id": "programacionmovil-1901d",
+    "storage_bucket": "programacionmovil-1901d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324020057684:android:1b68c94bdfbf05787a5fc1",
+        "android_client_info": {
+          "package_name": "com.example.carrocompras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324020057684-rmi3g9t20ddg4nhttv6edlil5t35mnq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzLOBamcqalzgvoler1IqTqYFamYtx1M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324020057684-rmi3g9t20ddg4nhttv6edlil5t35mnq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
